@@ -1,0 +1,1 @@
+flameshot gui -r | python3 src/main.py
